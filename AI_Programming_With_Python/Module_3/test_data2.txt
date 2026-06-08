@@ -1,0 +1,6 @@
+Hello world
+How are you?
+
+
+This is using append mode,
+Is this working fine?
